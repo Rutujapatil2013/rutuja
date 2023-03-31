@@ -1,0 +1,22 @@
+.container{
+    margin: 0;
+    padding: 0;
+}
+
+.contact_text{
+    padding-top: 20px;
+    text-align: center;
+}
+
+.map{
+    padding:top bottom left right;
+    padding: 30px;
+    block-size: 400px;
+}
+
+textarea{
+    max-width:40rem;
+    border: 3px solid rgb(207, 143, 143);
+    padding: 1.5rem;
+    color
+}
